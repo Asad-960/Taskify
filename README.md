@@ -18,7 +18,7 @@ To get the project up and running, you'll need to start both the backend API and
 1.  Navigate to the `API` directory.
 2.  Ensure you have the .NET SDK installed.
 3.  Run the API using your preferred method (e.g., `dotnet run` or via your IDE).
-    The API will typically be available at `http://localhost:5000` (or a similar port configured in `launchSettings.json`).
+    The API will typically be available at `http://localhost:5001`
 
 ### Frontend (React Client)
 
@@ -26,7 +26,7 @@ To get the project up and running, you'll need to start both the backend API and
 2.  Ensure you have Node.js and npm (or yarn) installed.
 3.  Install dependencies: `npm install` (or `yarn install`).
 4.  Start the development server: `npm run dev` (or `yarn dev`).
-    The frontend will typically be available at `http://localhost:3000` (or another port specified by Vite).
+    The frontend will typically be available at `http://localhost:3000`
 
 ## Features
 
@@ -35,4 +35,3 @@ To get the project up and running, you'll need to start both the backend API and
 *   Organize tasks by categories
 *   Real-time updates for task changes
 
-*(Note: This AI agent is unable to add images or screenshots to this README.)*
