@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API</name>
+    </assembly>
+    <members>
+        <member name="T:API.Controllers.AccountController">
+            <summary>
+            
+            </summary>
+            <param name="userManager"></param>
+            <param name="jwtService"></param>
+        </member>
+        <member name="M:API.Controllers.AccountController.#ctor(Microsoft.AspNetCore.Identity.UserManager{Domain.UserEntities.AppUser},Persistence.ServiceContracts.IJwtService)">
+            <summary>
+            
+            </summary>
+            <param name="userManager"></param>
+            <param name="jwtService"></param>
+        </member>
+        <member name="M:API.Controllers.AccountController.Login(API.Dto.LoginDto)">
+            <summary>
+            
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:API.Controllers.AccountController.Register(API.Dto.RegisterDto)">
+            <summary>
+            
+            </summary>
+            <param name="registerDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:API.Controllers.CategoryController.CreateCategory(Application.Dto.CategoryDto)">
+            <summary>
+            To create a unique category
+            </summary>
+            <param name="categoryDto"></param>
+            <returns></returns>
+        </member>
+        <member name="T:API.Services.ReminderService">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:API.Services.ReminderService.#ctor(Persistence.AppDbContext,Microsoft.AspNetCore.SignalR.IHubContext{API.Hubs.ReminderHub})">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:API.Services.ReminderService.SendReminder">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
