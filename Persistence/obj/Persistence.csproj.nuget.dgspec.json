@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asadu\\OneDrive\\Desktop\\Canvas\\Persistence\\Persistence.csproj": {}
+    "C:\\Users\\asadu\\OneDrive\\Desktop\\Taskify\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asadu\\OneDrive\\Desktop\\Canvas\\Domain\\Domain.csproj": {
+    "C:\\Users\\asadu\\OneDrive\\Desktop\\Taskify\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asadu\\OneDrive\\Desktop\\Canvas\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\asadu\\OneDrive\\Desktop\\Taskify\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Canvas\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Taskify\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\asadu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Canvas\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Taskify\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asadu\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\asadu\\OneDrive\\Desktop\\Canvas\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\asadu\\OneDrive\\Desktop\\Taskify\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asadu\\OneDrive\\Desktop\\Canvas\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\asadu\\OneDrive\\Desktop\\Taskify\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Canvas\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Taskify\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\asadu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Canvas\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Taskify\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asadu\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -91,8 +91,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\asadu\\OneDrive\\Desktop\\Canvas\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Canvas\\Domain\\Domain.csproj"
+              "C:\\Users\\asadu\\OneDrive\\Desktop\\Taskify\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Taskify\\Domain\\Domain.csproj"
               }
             }
           }

@@ -5169,11 +5169,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asadu\\OneDrive\\Desktop\\Canvas\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\asadu\\OneDrive\\Desktop\\Taskify\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Canvas\\API\\API.csproj",
+      "projectPath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Taskify\\API\\API.csproj",
       "packagesPath": "C:\\Users\\asadu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Canvas\\API\\obj\\",
+      "outputPath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Taskify\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asadu\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5188,8 +5188,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\asadu\\OneDrive\\Desktop\\Canvas\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Canvas\\Application\\Application.csproj"
+            "C:\\Users\\asadu\\OneDrive\\Desktop\\Taskify\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Taskify\\Application\\Application.csproj"
             }
           }
         }

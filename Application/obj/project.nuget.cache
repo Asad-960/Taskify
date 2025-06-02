@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CSDRisf29Y0=",
+  "dgSpecHash": "3D6mpMiL0bM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Canvas\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Taskify\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asadu\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\asadu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

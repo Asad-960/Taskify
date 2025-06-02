@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mPaEM6bBRWY=",
+  "dgSpecHash": "y1HapxWhA34=",
   "success": true,
-  "projectFilePath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Canvas\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\asadu\\OneDrive\\Desktop\\Taskify\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asadu\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\asadu\\.nuget\\packages\\hangfire\\1.8.20\\hangfire.1.8.20.nupkg.sha512",
