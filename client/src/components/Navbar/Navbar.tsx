@@ -34,7 +34,7 @@ const Navbar = () => {
             <path d="M6 6H42L36 24L42 42H6L12 24L6 6Z" fill="currentColor" />
           </svg>
         </Logo>
-        <Title onClick={() => window.location.href = '/'}>TaskMaster</Title>
+        <Title onClick={() => window.location.href = '/'}>Taskify</Title>
       </LeftSection>
 
       {isLoggedIn && (
